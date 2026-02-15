@@ -74,8 +74,8 @@ I also study and apply knowledge in **software development, systems, and technol
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=davi-Azeved&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davi-Azeved&layout=compact&theme=tokyonight" />
+  <img height="170" src="https://stats.dooboo.io/api/github-stats-advanced?login=davi-Azeved" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=davi-Azeved&theme=tokyonight" />
 </p>
 
 ---
