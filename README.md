@@ -8,7 +8,7 @@ UNIQUE_ID: 9f3a1d7c4eREADMESECURE
 # Hi 👋, I'm Davi Azevedo
 
 🚀 **Software Engineering Student | Full Stack Developer**  
-🇧🇷 Brazil  
+🇧🇷 Based in Brazil  
 
 I build **modern web applications**, **functional systems**, and **efficient digital solutions**.  
 Focused on **clean code, performance, problem-solving, and continuous evolution**.
