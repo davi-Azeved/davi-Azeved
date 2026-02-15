@@ -1,4 +1,4 @@
-# Hi 👋, I'm Davi Botelho
+# Hi 👋, I'm Davi Azevedo
 
 🚀 **Software Engineering Student | Full Stack Developer**  
 🇧🇷 Brazil
